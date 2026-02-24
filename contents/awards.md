@@ -1,8 +1,2 @@
-
-- **Dean's List (All Semester)** at University of Minnesota Twin Cities.
-
-- Special Corporate Scholarships, 2023. **(1/30)**
-
-- School Special Academic Scholarship, 2023.**(1%)**
-
-- First-Class Academic Scholarship, 2022.**(8%)**
+* ASMS Postdoctoral Career Development Award, 2022.
+* Young Investigator Award, International Single-cell Mass Spectrometry Society, 2025.

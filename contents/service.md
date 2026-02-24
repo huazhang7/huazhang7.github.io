@@ -1,3 +1,4 @@
+Reviewer for Analytical Chemistry, Analytica chimica acta, Environmental chemistry letters, GigaScience, ACS omega, JAMS, JoVE, etc. 
 
-- Reviewer for EMNLP'2024
-- Reviewer for ACL'2024
+
+
