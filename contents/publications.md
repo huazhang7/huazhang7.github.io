@@ -1,7 +1,7 @@
 For full paper list, please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en).
 
-<strong>Hua Zhang</strong>#, Lang Ding#, Amy Hu, Xudong Shi, Penghsuan Huang, Haiyan Lu, Paul W. Tillberg, Meng C. Wang*, Lingjun Li*. (2025). TEMI: Tissue Expansion Mass Spectrometry Imaging. Nature Methods, 22: 1051–1058.* [Paper]
-*(Co-first; Corresponding authors marked with )
+<strong>Hua Zhang</strong>#, Lang Ding#, Amy Hu, Xudong Shi, Penghsuan Huang, Haiyan Lu, Paul W. Tillberg*, Meng C. Wang*, Lingjun Li*. (2025). TEMI: Tissue Expansion Mass Spectrometry Imaging. Nature Methods, 22: 1051–1058.
+(# Co-first; * Corresponding author)
 
 <strong>Hua Zhang</strong>, Yuan Liu, Lauren Fields, Xudong Shi, Penghsuan Huang, Haiyan Lu, Andrew J. Schneider, Xindi Tang, Luigi Puglielli, Nathan V. Welham, Lingjun Li*. (2023). Single-cell lipidomics enabled by dual-polarity ionization and ion mobility-mass spectrometry imaging. Nature Communications, 14: 5185.
 
