@@ -13,11 +13,11 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 <strong>Hua Zhang</strong>, Xudong Shi, Nhu Q. Vu, Gongyu Li, Zihui Li, Yatao Shi, Miyang Li, Bin Wang, Nathan V. Welham, Manish S. Patankar, Paul Weisman, Lingjun Li*. (2020). On-tissue derivatization with Girard’s reagent P enhances N-glycan signals for formalin-fixed paraffin-embedded tissue sections in MALDI mass spectrometry imaging. Analytical Chemistry, 92(19): 13361–13368. (ACS Editor’s Choice)
 
-<strong>Hua Zhang</strong>, Konstantin Chingin, Jiajia Li, Haiyan Lu, Keke Huang, Huanwen Chen*. (2018). Selective Enrichment of Phosphopeptides and Phospholipids from Biological Matrices on TiO₂ Nanowire Arrays for Direct Molecular Characterization by Internal Extractive Electrospray Ionization Mass Spectrometry. Analytical Chemistry, 90(20): 12101–12107.*
+<strong>Hua Zhang</strong>, Konstantin Chingin, Jiajia Li, Haiyan Lu, Keke Huang, Huanwen Chen*. (2018). Selective Enrichment of Phosphopeptides and Phospholipids from Biological Matrices on TiO₂ Nanowire Arrays for Direct Molecular Characterization by Internal Extractive Electrospray Ionization Mass Spectrometry. Analytical Chemistry, 90(20): 12101–12107.
 
 <strong>Hua Zhang</strong>, Haiyan Lu, Konstantin Chingin, Huanwen Chen*. (2015). Stabilization of proteins and noncovalent protein complexes during electrospray ionization by amino acid additives. Analytical Chemistry, 87(14): 7433–7438.*
 
-<strong>Hua Zhang</strong>, Konstantin Chingin, Liang Zhu, Huanwen Chen. (2015). Molecular characterization of ongoing enzymatic reactions in raw garlic cloves using extractive electrospray ionization mass spectrometry. Analytical Chemistry, 87(5): 2878–2883.*
+<strong>Hua Zhang</strong>, Konstantin Chingin, Liang Zhu, Huanwen Chen*. (2015). Molecular characterization of ongoing enzymatic reactions in raw garlic cloves using extractive electrospray ionization mass spectrometry. Analytical Chemistry, 87(5): 2878–2883.
 
 <strong>Hua Zhang</strong>, Malik Ebbini, Thao Duong, Kendra G. Selby, Kelly H. Lu, Emily Hubecky, Haiyan Lu, Lingjun Li*. (2026). Single-cell mass spectrometry imaging: emerging advancements and future insights. Analytica Chimica Acta, 1382: 344825.
 
