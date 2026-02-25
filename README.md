@@ -6,7 +6,7 @@ This is an academic personal website template based on bootstrap. This demo refe
 
 This template supports markdown files as input content, and you don't need to build the webpage before deployment. When the webpage is loaded, the markdown files will be automatically parsed and embedded into the page.
 
-Demo: https://jerrysys.top
+Demo: https://huazhang7.github.io/
 
 
 ## Getting Start
