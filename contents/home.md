@@ -13,4 +13,4 @@ Dr. Hua Zhang is a Professor in the School of Science, Department of Chemistry a
 2. Mass spectrometry imaging
     
 #### Contact<p id="contact-info"></p>
-✉️ [hzhang7 [at] tju.edu.cn](mailto:hzhang7@tju.edu.cn)
+✉️ [hzhang7@tju.edu.cn](mailto:hzhang7@tju.edu.cn) or  [zhanghua808@gmail.com](mailto:zhanghua808@gmail.com)
